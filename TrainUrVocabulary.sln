@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryLibrary", "DictionaryLibrary\DictionaryLibrary.csproj", "{6830F3FE-AC2F-43F3-A080-AEC7CA507DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VucabularyConsoleApp", "VucabularyConsoleApp\VucabularyConsoleApp.csproj", "{9B2CE8E6-AC95-4833-835E-9EF1F083EC3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6830F3FE-AC2F-43F3-A080-AEC7CA507DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6830F3FE-AC2F-43F3-A080-AEC7CA507DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6830F3FE-AC2F-43F3-A080-AEC7CA507DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6830F3FE-AC2F-43F3-A080-AEC7CA507DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2CE8E6-AC95-4833-835E-9EF1F083EC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2CE8E6-AC95-4833-835E-9EF1F083EC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2CE8E6-AC95-4833-835E-9EF1F083EC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2CE8E6-AC95-4833-835E-9EF1F083EC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9936AC17-E2BC-4C68-BC0A-3B9A9BACF600}
+	EndGlobalSection
+EndGlobal
