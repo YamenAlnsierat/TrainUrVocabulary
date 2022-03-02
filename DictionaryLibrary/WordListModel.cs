@@ -12,8 +12,5 @@ namespace DictionaryLibrary
         public string Name { get; set; }
         public string[] Languages { get; set; }
         public List<WordModel> Words { get; set; }
-
-
-
     }
 }
