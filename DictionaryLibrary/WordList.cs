@@ -84,7 +84,6 @@ namespace DictionaryLibrary
 
         public void Add(params string[] translations)
         {
-            //var exists = wordListModel.Words.First(p => p.Translations == translations);
             if (Languages.Length != translations.Length) throw new Exception();
             else wordListModel.Words.Add(new WordModel(translations));
         }
