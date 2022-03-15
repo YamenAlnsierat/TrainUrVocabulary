@@ -54,7 +54,6 @@ namespace DictionaryLibrary
             }
             else
             {
-                //Console.WriteLine($"There is no wordlist with the given name!\n");
                 return null;
             }
             
