@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VucabularyConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-remove things english ca"
+    }
+  }
+}
